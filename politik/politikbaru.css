@@ -1,0 +1,187 @@
+*, html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+    }
+    
+    .container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    }
+    
+    .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+    padding: 15px;
+    width: 100%;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    }
+    
+    .brand {
+    display: flex;
+    flex-direction: row;
+    font-size: 2em;
+    padding: 15px;
+    text-decoration: none;
+    }
+    
+    .firstname {
+    color: blue;
+    font-weight: 700;
+    }
+    
+    .lastname {
+    color: white;
+    font-weight: 400;
+    padding-left: 4px;
+    }
+    
+    .navbar {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .navbar>li {
+        padding: 15px;
+        list-style-type: none;
+    }
+    
+    .navbar > li > a {
+        color: white;
+        font-size: 20px;
+        text-decoration: none;
+    }
+    
+    .navbar>li>a:hover {
+        color: blue;
+        transition: all .5s ease-in-out;
+    }
+
+    .politik1 {
+        display: flex;
+        align-items: center;
+        margin-top: -500px;
+    }
+    
+    .imagepolitik1 {
+        margin-right: 10px;
+        width: 250px;
+        height: auto;
+        margin-left: 15px;
+    }
+    
+    .textpolitik1 {
+        flex: 1;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+    
+    .politik2 {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+    
+    .imagepolitik2 {
+        margin-right: 10px;
+        width: 250px;
+        height: auto;
+        margin-left: 15px;
+    }
+    
+    .textpolitik2 {
+        flex: 1;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+
+    .politik3 {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+    
+    .imagepolitik3 {
+        margin-right: 10px;
+        width: 250px;
+        height: auto;
+        margin-left: 15px;
+    }
+    
+    .textpolitik3 {
+        flex: 1;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+    
+    .politik4 {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+    
+    .imagepolitik4 {
+        margin-right: 10px;
+        width: 250px;
+        height: auto;
+        margin-left: 15px;
+    }
+    
+    .textpolitik4 {
+        flex: 1;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+
+    .politik5 {
+        display: flex;
+        align-items: center;
+        margin-top: 10px;
+    }
+    
+    .imagepolitik5 {
+        margin-right: 10px;
+        width: 250px;
+        height: auto;
+        margin-left: 15px;
+    }
+    
+    .textpolitik5 {
+        flex: 1;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+    
+img {
+    border-radius: 6px;
+}
+
+.penutup {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+div h1 {
+    padding-right: 30px;
+    
+}
+
+div h1 a {
+    text-decoration: none;
+}
+
+img {
+    border-radius: 6px;
+}
